@@ -2,7 +2,7 @@
 
 > **End-to-end data analytics project** combining Tableau visualisation with deep statistical analysis in R on Databricks — built to uncover revenue drivers, margin patterns, and sales trends across spirit categories, vendors, and counties.
 
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](https://public.tableau.com/views/LiquorSalesDashboard)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](🔗 **[View Live Dashboard on Tableau Public →]https://public.tableau.com/views/LiquorSalesDashboard_17755814981430/LiquorDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**)
 [![Databricks](https://img.shields.io/badge/Databricks-R%20Notebook-red?logo=databricks)](https://adb-74056159201106)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/neel2444/Liquor-Sales-Dashboard)
 ![Language](https://img.shields.io/badge/Language-R-276DC3?logo=r)
