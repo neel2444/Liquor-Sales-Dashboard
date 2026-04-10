@@ -155,7 +155,8 @@ Open `Liquor Sales Data Analysis.Rmd` in RStudio and click **Knit** to produce a
 ## 📸 Project Screenshots
 
 | Tableau Dashboard | Databricks R Notebook |
-|:-----------------:|:---------------------:|
+|<img width="1472" height="713" alt="Screenshot 2026-04-11 044240" src="https://github.com/user-attachments/assets/f879a365-d51c-49cc-8b99-8258b3b3eff3" />
+|:---------------------:|
 
 
 ---
