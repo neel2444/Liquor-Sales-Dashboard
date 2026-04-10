@@ -74,7 +74,8 @@ The Tableau dashboard provides interactive views of:
 - 🗺️ **County × Category Heatmap** — geographic sales distribution
 - 🔗 **Vendor × Category Matrix** — cross-dimensional performance
 
-🔗 **[View Live Dashboard on Tableau Public →](https://public.tableau.com/views/LiquorSalesDashboard)**
+🔗 **[View Live Dashboard on Tableau Public →]https://public.tableau.com/views/LiquorSalesDashboard_17755814981430/LiquorDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+
 
 ---
 
@@ -161,7 +162,7 @@ Open `Liquor Sales Data Analysis.Rmd` in RStudio and click **Knit** to produce a
 
 | Tableau Dashboard | Databricks R Notebook |
 |:-----------------:|:---------------------:|
-| ![Dashboard](assets/tableau_dashboard.png) | ![Notebook](assets/databricks_notebook.png) |
+
 
 ---
 
