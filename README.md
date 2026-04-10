@@ -2,6 +2,17 @@
 
 > **End-to-end data analytics project** combining Tableau visualisation with deep statistical analysis in R on Databricks — built to uncover revenue drivers, margin patterns, and sales trends across spirit categories, vendors, and counties.
 
+
+<img width="856" height="724" alt="Screenshot 2026-04-11 045025" src="https://github.com/user-attachments/assets/73cd2f96-dea6-471c-8f1f-60280106fe06" />
+<img width="869" height="730" alt="Screenshot 2026-04-11 045114" src="https://github.com/user-attachments/assets/c482d8bc-c391-4a95-bc8a-e6d178763244" />
+<img width="856" height="730" alt="Screenshot 2026-04-11 045123" src="https://github.com/user-attachments/assets/8247a32e-8a8f-425d-9bba-c7ecc301ebc6" />
+<img width="817" height="728" alt="Screenshot 2026-04-11 045216" src="https://github.com/user-attachments/assets/6e2f6742-5c95-4fe7-a068-994ada32ad3b" />
+<img width="841" height="742" alt="Screenshot 2026-04-11 045133" src="https://github.com/user-attachments/assets/99d329f0-d388-464e-80b8-7bcbeb5fcad4" />
+<img width="856" height="730" alt="Screenshot 2026-04-11 045123" src="https://github.com/user-attachments/assets/7bdac5bf-7cba-4f21-bfa9-3a606fd19e13" />
+<img width="865" height="720" alt="Screenshot 2026-04-11 045200" src="https://github.com/user-attachments/assets/61c52930-2175-48c7-905c-341aae50f934" />
+
+
+
 ---
 
 ## 📌 Project Overview
